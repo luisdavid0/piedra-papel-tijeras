@@ -6,7 +6,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(assets/imagen.png);
+    background-image: url('./assets/imagen.png');
     background-repeat: no-repeat;
     background-size: cover;
     
