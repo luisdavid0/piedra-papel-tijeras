@@ -19,11 +19,11 @@ const imagenes = [
     },
     {
         name: "Papel",
-        url: "assets/papel.png" 
+        url: "assets/Papel.png" 
     },
     {
         name: "Tijeras",
-        url: "assets/tijeras.png" 
+        url: "assets/Tijeras.png" 
     }
 ];
 
