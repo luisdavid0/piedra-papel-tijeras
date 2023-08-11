@@ -15,7 +15,7 @@ let imgPc;
 const imagenes = [
     {
         name: "Piedra",
-        url: "assets/piedra1.PNG" 
+        url: "assets/piedra.png" 
     },
     {
         name: "Papel",
